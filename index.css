@@ -1,0 +1,24 @@
+/*
+    Author: Judith Egyes
+    Date: 05/02/2023
+*/
+
+
+h2
+        table {
+            margin: 0 auto;
+            width: 90%;
+            }
+        td  {
+            background-color: #f7e8de;
+            border-color: goldenrod;
+            border-style:double;
+            padding: .5em;
+            }
+        th  {
+            color:#FFFFFF;
+            background-color: indianred;
+            padding: .5em;
+        }
+
+        
